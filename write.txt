@@ -8,3 +8,6 @@ feature-3 hello hello gelo gelo
 =======
 bug fixing
 >>>>>>> 87d448afb11a5ba459106cfc2fb6116063ddaafa
+
+
+amar sonar bangla
